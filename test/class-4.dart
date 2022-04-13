@@ -156,5 +156,4 @@ class Kambing extends Hewan {
   }
 }
 
-//Anjing yang merupakan child class dari Hewan
 
